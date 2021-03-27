@@ -59,3 +59,8 @@ Contributors
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+References Used by Jerwyn Alqueza
+========================
+
+https://github.com/abramhindle/WebSocketsExamples
